@@ -1,0 +1,39 @@
+{
+  "files": {
+    "main.css": "/static/css/main.7b9e7d8c.css",
+    "main.js": "/static/js/main.101d2e28.js",
+    "static/media/bake_page.png": "/static/media/bake_page.e27c5ef8383e137d4f77.png",
+    "static/media/Will.png": "/static/media/Will.b1441f0c268b1e0fbec8.png",
+    "static/media/HNG.png": "/static/media/HNG.63fcd020401ed69d134b.png",
+    "static/media/MJ.png": "/static/media/MJ.5b8d52762089930642a5.png",
+    "static/media/web3.png": "/static/media/web3.aaceba094c8965f07550.png",
+    "static/media/Meta.png": "/static/media/Meta.7b5b1f0c2cb0dff47ba5.png",
+    "static/media/staking.png": "/static/media/staking.23c43befd21664b5e33d.png",
+    "static/media/Smart-Contract.png": "/static/media/Smart-Contract.09094754a6e4b0bb9c94.png",
+    "static/media/Linktree.png": "/static/media/Linktree.5e186ce22a70f8c0fecf.png",
+    "static/media/cv.pdf": "/static/media/cv.185c227617c5cf3eae6a.pdf",
+    "static/media/alchemy.svg": "/static/media/alchemy.ec491ba01221459435729f5ce97bda9c.svg",
+    "static/media/ganache.svg": "/static/media/ganache.6e8559764484ba079a1fb9a995a633f9.svg",
+    "static/media/metamask.svg": "/static/media/metamask.4368e45a954072443e7a106ca3900e0a.svg",
+    "static/media/hardhat.svg": "/static/media/hardhat.1498fcd21d440a32094b53b33221f67b.svg",
+    "static/media/atom.svg": "/static/media/atom.783ff9f042937fddf786fccaf9bd991f.svg",
+    "static/media/react.svg": "/static/media/react.e68b35f4774979ae220b1d5d7b345b00.svg",
+    "static/media/etherscan.svg": "/static/media/etherscan.c49ca24b71874a79d20171a3e3b4e9c1.svg",
+    "static/media/bootstrap.svg": "/static/media/bootstrap.98585727bcfe0b1555649ec9bbab236c.svg",
+    "static/media/Javascript.svg": "/static/media/Javascript.00f3e5cf8bcf4ae623b3835ca5791b15.svg",
+    "static/media/git.svg": "/static/media/git.c60b7e5ae8ec2562f23fdddcab300026.svg",
+    "static/media/tailwind-css.svg": "/static/media/tailwind-css.315d0ac2a2708d5f06972906113dfbf1.svg",
+    "static/media/visual-studio-code.svg": "/static/media/visual-studio-code.b8b1e001813039750e6c05c236ab0d46.svg",
+    "index.html": "/index.html",
+    "static/media/ethereum.svg": "/static/media/ethereum.cf8aa5e7c7ee6fe226057d2329059293.svg",
+    "static/media/solidity.svg": "/static/media/solidity.589a9cd98be9924165a471b591844879.svg",
+    "static/media/css.svg": "/static/media/css.4e47c3122b8d2476a02f97dcfcb28640.svg",
+    "static/media/html.svg": "/static/media/html.f318c8b1d5945fa9adc827ae94849cb1.svg",
+    "main.7b9e7d8c.css.map": "/static/css/main.7b9e7d8c.css.map",
+    "main.101d2e28.js.map": "/static/js/main.101d2e28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7b9e7d8c.css",
+    "static/js/main.101d2e28.js"
+  ]
+}
