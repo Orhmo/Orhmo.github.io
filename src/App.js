@@ -66,7 +66,7 @@ const App = () => {
        </div>
        <AnimatePresence exitBeforeEnter>
           <Routes location={location} key={location.pathname}>
-              <Route path='/orhmo.github.io' element={<Landing />}></Route>
+              <Route path='/' element={<Landing />}></Route>
               <Route path='/html' element={<Html />}></Route>
               <Route path='/react' element={<React />}></Route>
               <Route path='/solidity' element={<Solidity />}></Route>
